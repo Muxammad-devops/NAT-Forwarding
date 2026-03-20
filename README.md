@@ -1,0 +1,1 @@
+By making this topology, I intend to describe how web servers work, and while we see they are working with white ip addresses, for example google which is assigned to 8.8.8.8 and others. But in truth, they are actually working with black ip addresses at the back of white one. This topology makes you see that process in person.
